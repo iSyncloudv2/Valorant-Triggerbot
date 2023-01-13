@@ -6,7 +6,7 @@ from time import sleep, perf_counter
 from ctypes import WinDLL
 
 
-def exit_():
+def exit_():e
     system("echo Press any key to exit . . . & pause >nul")
     _exit(0)
 
